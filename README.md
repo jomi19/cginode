@@ -1,4 +1,5 @@
 # cginode
+Running on port: 1337
 
 ## npm install 
 Instalerar projektet
